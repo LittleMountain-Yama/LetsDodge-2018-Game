@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 9a8c441a90f56c44abd094e6972a1b39
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_0
+    21300002: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_1
+    21300004: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_2
+    21300006: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_3
+    21300008: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_4
+    21300010: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_5
+    21300012: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_6
+    21300014: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_7
+    21300016: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_8
+    21300018: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_9
+    21300020: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_10
+    21300022: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_11
+    21300024: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_12
+    21300026: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_13
+    21300028: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_14
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 109
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0107483df73a5d4fa98ecf0941a2254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 109
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcb3011388187a4f87edacf8bc205d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 109
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3363b6727499d364bbf56bd4f0006755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 109
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db36d6aa0de5464b93eb276e97947c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 109
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788afae3499bd9947a1324c90d3448f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a22ccea984b68c41a0bf16ee94a3b77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 63
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ab27c2c6267f74aa1b0269b317bf1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 63
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7016843e2016ccb42a7c9a1c1a82c449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 63
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad46e3afbfeaed4582bb7f3174ef98b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 63
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af3f92fb28d3c2458b794bd2342723f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 14
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605bb5575aef581468be3c3692216112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 14
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd13e1f594f6f3e478cd167f3e475073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629fde2428670d749bf7cf6ab4806eab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b152f5d2a98184893a432840b82618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_egg_block_sprite_sheet_by_supermariologan64-d3lhxny_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 14
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9fb36163bd8b64790b66b441436b01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
